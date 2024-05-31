@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [[github](github)](https://github.com/SURYASNAIR1)
 
-- 💬 Ask me about **repository projects**
+- 💬 Ask me about **Cyber security 🔒🔑💂‍♂️💻💡💭**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/surya-s-nair-aa8358224](https://www.linkedin.com/in/surya-s-nair-aa8358224)
 
