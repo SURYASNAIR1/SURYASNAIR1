@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryasnair1" alt="suryasnair1" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Security tools**
+- 🔭 I’m currently working on **Atomotive Cyber Security tools**
 
-- 🌱 I’m currently learning **courses, programming languages**
+- 🌱 I’m currently learning **Cyber security courses, programming languages, penteration testing**
 
 - 👯 I’m looking to collaborate on **Aviation Cyber Security projects**
 
-- 🤝 I’m looking for help with **Aviation Cyber Security Red Team**
+- 🤝 I’m looking for help with **Red Team**
 
-- 👨‍💻 All of my projects are available at [github repositories](github repositories)
+- 👨‍💻 All of my projects are available at [[github repositories](github repositories)](https://github.com/SURYASNAIR1?tab=repositories)
 
-- 📝 I regularly write articles on [github](github)
+- 📝 I regularly write articles on [[github](github)](https://github.com/SURYASNAIR1)
 
 - 💬 Ask me about **repository projects**
 
