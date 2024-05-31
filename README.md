@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/surya-s-nair-aa8358224](https://www.linkedin.com/in/surya-s-nair-aa8358224)
 
-- ⚡ Fun fact **I have a remarkable ability to learn and grow from your mistakes or setbacks. Instead of being discouraged by falling #rise stronger and wiser. 🌟**
+- ⚡ **I have a remarkable ability to learn and grow from your mistakes or setbacks. Instead of being discouraged by falling #rise stronger and wiser. 🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
