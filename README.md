@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryasnair1" alt="suryasnair1" /></a> </p>
 
-- 🔭 I’m currently working on **Atomotive Cyber Security tools**
+- 🔭 I’m currently working on **Automotive Cyber Security tools**
 
 - 🌱 I’m currently learning **Cyber security courses, programming languages, penteration testing**
 
